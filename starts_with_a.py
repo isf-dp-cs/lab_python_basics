@@ -1,3 +1,5 @@
+
+
 print("Welcome to the A Game! Enter words that start with the letter a to earn points! Type exit to leave the game.")
 print()
 
